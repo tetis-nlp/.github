@@ -38,8 +38,9 @@ This repository serves as the central hub for software production by the **Text-
 
 | Type | Name | Description | Link |
 |------|------|-------------|------|
-| Google Colab | pratical-session-nlp-for-one-health-murdoch-mood | Practical session on NLP for One Health - Murdoch Mood | [GitHub](https://github.com/tetis-nlp/pratical-session-nlp-for-one-health-murdoch-mood) |
-| Google Colab | Geographical Biases in LLMs | Evaluation of the quality of LLM geo knowledge | [GitHub](https://github.com/tetis-nlp/geographical-biases-in-llms) |
+| Google Colab | 2023 - pratical-session-nlp-for-one-health-murdoch-mood | Practical session on NLP for One Health - Murdoch Mood | [GitHub](https://github.com/tetis-nlp/pratical-session-nlp-for-one-health-murdoch-mood) |
+| Google Colab | 2024 - Geographical Biases in LLMs | Evaluation of the quality of LLM geo knowledge | [GitHub](https://github.com/tetis-nlp/geographical-biases-in-llms) |
+| Google Colab | 2024 - ETTM INRAE/DipSO/ASTRA: Vectorisation, clusterisation and classification | | [institutional gitlab](https://forgemia.inra.fr/dipso/astra-auto/ettm_astra/-/tree/main/Dev/atelier3_4_clusterisation_classification?ref_type=heads) |
 
 ---
 
