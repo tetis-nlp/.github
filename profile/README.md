@@ -19,8 +19,9 @@ This repository serves as the central hub for software production by the **Text-
 
 | Journal/Conference | Name | Description | Repository Link |
 |--------------------|------|-------------|----------------|
-| [DS2024](https://doi.org/10.1007/978-3-031-78977-9_6) | Geographical Biases in LLMs | Evaluation of the quality of LLM geo knowledge | [GitHub](https://github.com/tetis-nlp/geographical-biases-in-llms) |
-| [EGC2025](https://editions-rnti.fr/?inprocid=1003003) | Text 2 SQL for LandMatrix | Text-to-GraphQL / API REST for querying the Land Matrix database | [GitHub](https://github.com/tetis-nlp/landmatrix-graphql-python) |
+| [AGILE-2021](https://agile-giss.copernicus.org/articles/2/2/2021/) | H-TFIDF | This project aims to extract discriminative terms on spatial and time windows | [institutionnal gitlab](https://gitlab.irstea.fr/remy.decoupes/covid19-tweets-mood-tetis) | 
+| [DS-2024](https://doi.org/10.1007/978-3-031-78977-9_6) | Geographical Biases in LLMs | Evaluation of the quality of LLM geo knowledge | [GitHub](https://github.com/tetis-nlp/geographical-biases-in-llms) |
+| [EGC-2025](https://editions-rnti.fr/?inprocid=1003003) | Text 2 SQL for LandMatrix | Text-to-GraphQL / API REST for querying the Land Matrix database | [GitHub](https://github.com/tetis-nlp/landmatrix-graphql-python) |
 
 ---
 
