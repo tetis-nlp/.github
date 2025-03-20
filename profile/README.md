@@ -10,6 +10,7 @@ This repository serves as the central hub for software production by the **Text-
 |------|------|-------------|----------------|
 | Local Python Package | SNEtoolkit | Absolute Spatial Named Entities extraction and disambiguation tool | [GitHub](https://github.com/tetis-nlp/Snetoolkit) |
 | Local Streamlit Application | THECOB | Automatic protocol for the constitution of spatio-temporal and thematic corpora | [GitHub](https://github.com/tetis-nlp/THECOB) |
+| local Streamlit Application | GeospaCy | GeospaCy is a web application built in Python language used for extracting spatial relation entities (spatRE) from text and Geo-referenced them | [Github](https://github.com/mehtab-alam/GeospaCy) |
 | [Pip Package](https://pypi.org/project/geonlplify/) | GeoNLPlify | NLP library for data augmentation focusing on spatial information contained in text | [GitHub](https://github.com/remydecoupes/GeoNLPlify) |
 
 ---
