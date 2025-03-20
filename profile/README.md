@@ -25,7 +25,7 @@ This repository serves as the central hub for software production by the **Text-
 
 ---
 
-## 🎓 Our Internship Works
+## 🎓 Work of our students
 
 | Author | Name | Description | Repository Link |
 |--------|------|-------------|----------------|
