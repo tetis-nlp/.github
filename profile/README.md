@@ -41,6 +41,7 @@ This repository serves as the central hub for software production by the **Text-
 
 | Type | Name | Description | Link |
 |------|------|-------------|------|
+| Google Colab | [2022 - H2020 MOOD PhD school](https://mood-h2020.eu/insights-from-the-mood-summer-school-and-hackathon-2022/) | [GitHub](https://github.com/mehtab-alam/MOOD_SUMMER_SCHOOL_2022) |
 | Google Colab | 2023 - pratical-session-nlp-for-one-health-murdoch-mood | Practical session on NLP for One Health - Murdoch Mood | [GitHub](https://github.com/tetis-nlp/pratical-session-nlp-for-one-health-murdoch-mood) |
 | Google Colab | 2024 - Geographical Biases in LLMs | Evaluation of the quality of LLM geo knowledge | [GitHub](https://github.com/tetis-nlp/geographical-biases-in-llms) |
 | Google Colab | 2024 - ETTM INRAE/DipSO/ASTRA: Vectorisation, clusterisation and classification | | [institutional gitlab](https://forgemia.inra.fr/dipso/astra-auto/ettm_astra/-/tree/main/Dev/atelier3_4_clusterisation_classification?ref_type=heads) |
