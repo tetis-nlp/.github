@@ -25,7 +25,7 @@ This repository serves as the central hub for software production by the **Text-
 | [ESWA](https://doi.org/10.1016/j.eswa.2024.123894) | Explainable epidemiological thematic features for event based disease surveillance | - | [Github](https://github.com/menya-edmond/EpidBioELECTRA) |
 | [DS-2024](https://doi.org/10.1007/978-3-031-78977-9_6) | Geographical Biases in LLMs | Evaluation of the quality of LLM geo knowledge | [GitHub](https://github.com/tetis-nlp/geographical-biases-in-llms) |
 | [EGC-2025](https://editions-rnti.fr/?inprocid=1003003) | Text 2 SQL for LandMatrix | Text-to-GraphQL / API REST for querying the Land Matrix database | [GitHub](https://github.com/tetis-nlp/landmatrix-graphql-python) |
-| [Frontiers in AI](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1526820/full) | Automating updates for scoping reviews on the environmental drivers of human and animal diseases: a comparative analysis of AI methods | [Github](https://github.com/tetis-nlp/automated_scoping_review) |
+| [Frontiers in AI](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1526820/full) | Automating updates for scoping reviews on the environmental drivers of human and animal diseases: a comparative analysis of AI methods | Identify risk factor by comparing GenAI / NER with MLM / NER with MLM with data augmentation | [Github](https://github.com/tetis-nlp/automated_scoping_review) |
 
 ---
 
