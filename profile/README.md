@@ -33,6 +33,7 @@ This repository serves as the central hub for software production by the **Text-
 
 | Author | Name | Description | Repository Link | Year |
 |--------|------|-------------|-----------------|------|
+| [Noureddine Saidi](https://noureddinesaidi.netlify.app/) | STAY Web App | a tool for temporal, spatial, relational, and semantic analysis of knowledge shared on YouTube about the phenomenon of self-sufficiency in France, developed as part of the STAY project (Technical Knowledge for Self-Sufficiency on YouTube) | [web app](https://github.com/ITSAIDI/STAYApp) & [first work](https://github.com/ITSAIDI/STAY_DEV) | 2025 |
 | [Aicha Zouhair](www.linkedin.com/in/aicha-zouhair-495a991b7) | landmatrix-resourcecontracts-feeder | Export mining deals from ResourceContracts to Land Matrix. | [github](https://github.com/tetis-nlp/landmatrix-resourcecontracts-feeder) | 2025 |
 | [Fatiha Ait Kbir](https://github.com/Fatiha09) | Text 2 SQL for LandMatrix | Text-to-GraphQL / API REST for querying the Land Matrix database | [GitHub](https://github.com/tetis-nlp/landmatrix-graphql-python) | 2024 |
 | [Nelson Jaimes-Quintero](https://github.com/NelsonJQ) | food-insecurity-risk-mining | Automatic named entity recognition pipeline to identify possible drivers of food insecurity in French-language news articles. The project supports event extraction (EE) using sentiment analysis and links TIME and LOCATION entities to event mentions. | [GitHub](https://github.com/tetis-nlp/food-insecurity-risk-mining) | 2024 |
