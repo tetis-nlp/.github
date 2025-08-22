@@ -33,6 +33,7 @@ This repository serves as the central hub for software production by the **Text-
 
 | Author | Name | Description | Repository Link | Year |
 |--------|------|-------------|-----------------|------|
+| [Rosalie Corine Nkounghawe Tomeyum](https://fr.linkedin.com/in/rosalie-corine-nkounghawe-tomeyum-a4bb55226) | SURSY | Développer une approche robuste de classification et d’augmentation de données textuelles pour la veille syndromique en santé végétale | [github](https://github.com/rosalie0309/Projet_SURSY) | 2025 |
 | [Noureddine Saidi](https://noureddinesaidi.netlify.app/) | STAY Web App | a tool for temporal, spatial, relational, and semantic analysis of knowledge shared on YouTube about the phenomenon of self-sufficiency in France, developed as part of the STAY project (Technical Knowledge for Self-Sufficiency on YouTube) | [web app](https://github.com/ITSAIDI/STAYApp) & [first work](https://github.com/ITSAIDI/STAY_DEV) | 2025 |
 | [Aicha Zouhair](https://www.linkedin.com/in/aicha-zouhair-495a991b7) | landmatrix-resourcecontracts-feeder | Export mining deals from ResourceContracts to Land Matrix. | [github](https://github.com/tetis-nlp/landmatrix-resourcecontracts-feeder) | 2025 |
 | [Fatiha Ait Kbir](https://github.com/Fatiha09) | Text 2 SQL for LandMatrix | Text-to-GraphQL / API REST for querying the Land Matrix database | [GitHub](https://github.com/tetis-nlp/landmatrix-graphql-python) | 2024 |
