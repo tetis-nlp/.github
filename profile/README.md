@@ -33,6 +33,7 @@ This repository serves as the central hub for software production by the **Text-
 
 | Author | Name | Description | Repository Link | Year |
 |--------|------|-------------|-----------------|------|
+| Marina Musse | STAY-controversy | Study of controversy in the agricultural field using French-language comments from YouTube | [github](https://github.com/marinmss/STAY-controversy) | 2025 |
 | [Raham Saleem](https://www.linkedin.com/in/reham-jamal-6127941b2/) | ARENA-2025 | Automated Entity & Relation Extraction for LULC | [github](https://github.com/RehamJamal13/ARENA-2025) | 2025 |
 | [Rida Asri](http://www.linkedin.com/in/asririda) | CSP-GNN-Analyse-et-l-explication-de-l-artificialisation-des-sols-partir-d-images-HR | Dans le cadre du projet ANR Hérelles, ce projet développe une méthode hybride combinant Graph Neural Networks et CSP pour détecter et interpréter l’artificialisation des sols à partir d’images satellitaires haute résolution, fournissant des explications factuelles et contrefactuelles pour appuyer la gestion durable des territoires. | [github](https://github.com/ASRI7198/CSP-GNN-Analyse-et-l-explication-de-l-artificialisation-des-sols-partir-d-images-HR) | 2025 |
 | [Rosalie Corine Nkounghawe Tomeyum](https://fr.linkedin.com/in/rosalie-corine-nkounghawe-tomeyum-a4bb55226) | SURSY | Développer une approche robuste de classification et d’augmentation de données textuelles pour la veille syndromique en santé végétale | [github](https://github.com/rosalie0309/Projet_SURSY) | 2025 |
